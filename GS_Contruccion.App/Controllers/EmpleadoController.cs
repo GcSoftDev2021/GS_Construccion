@@ -14,17 +14,32 @@ namespace GS_Contruccion.App.Controllers
             return View();
         }
 
-        public ActionResult CrearEmpleado()
+        public ActionResult Crear_Empleado()
         {
             return View();
         }
 
-        public ActionResult EditarEmpleado()
+        public ActionResult Editar_Empleado()
         {
             return View();
         }
 
-        public ActionResult ListaEmpleados()
+        public ActionResult Lista_Empleados()
+        {
+            return View();
+        }
+
+        public ActionResult Crear_Prestamo()
+        {
+            return View();
+        }
+
+        public ActionResult Editar_Prestamo()
+        {
+            return View();
+        }
+
+        public ActionResult Lista_Prestamos()
         {
             return View();
         }

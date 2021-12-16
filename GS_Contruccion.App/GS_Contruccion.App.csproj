@@ -235,9 +235,9 @@
     <Content Include="Views\Contratista\EditarContratista.cshtml" />
     <Content Include="Views\Contratista\ListaContratistas.cshtml" />
     <Content Include="Views\Empleado\Empleado.cshtml" />
-    <Content Include="Views\Empleado\CrearEmpleado.cshtml" />
-    <Content Include="Views\Empleado\EditarEmpleado.cshtml" />
-    <Content Include="Views\Empleado\ListaEmpleados.cshtml" />
+    <Content Include="Views\Empleado\Crear_Empleado.cshtml" />
+    <Content Include="Views\Empleado\Editar_Empleado.cshtml" />
+    <Content Include="Views\Empleado\Lista_Empleados.cshtml" />
     <Content Include="Views\Empresa\Empresa.cshtml" />
     <Content Include="Views\Empresa\CrearEmpresa.cshtml" />
     <Content Include="Views\Empresa\EditarEmpresa.cshtml" />
@@ -277,6 +277,9 @@
     <Content Include="Views\Home\Index.cshtml" />
     <Content Include="Scripts\jquery-3.6.0.slim.min.map" />
     <Content Include="Scripts\jquery-3.6.0.min.map" />
+    <Content Include="Views\Empleado\Crear_Prestamo.cshtml" />
+    <Content Include="Views\Empleado\Editar_Prestamo.cshtml" />
+    <Content Include="Views\Empleado\Lista_Prestamos.cshtml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
